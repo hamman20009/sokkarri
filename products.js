@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/2.jpg',
+		image: 'img/1.png',
 		
 		title: ' العلاج المثالي لمرضى السكري
     '  ,
