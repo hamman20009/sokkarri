@@ -7,7 +7,7 @@ const products = [
 		title: 'العلاج المثالي لمرضى السكري' ,
 		
 		price1: 6500,
-		price: 3000,
+		price: 3300,
 		description: '' ,
 		phone:0554139163,
 	},
