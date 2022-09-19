@@ -4,7 +4,7 @@ const products = [
 		logo:'img/logo.png',
 		image: 'img/1.png',
 		
-		title: 'العلاج المثالي لمرضى السكري' ,
+		title: 'العلاج المثالي لمرضى السكري  التوصيل مجاني' ,
 		
 		price1: 6500,
 		price: 3300,
