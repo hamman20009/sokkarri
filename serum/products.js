@@ -4,9 +4,9 @@ const products = [
 		logo:'img/logo.png',
 		image: 'img/1.png',
 		
-		title: '   مخفضة السكر بكل ضمان  '  ,
+		title: '   مخفضة السكر بكل ضمان توصيل مجاني لكل الولايات   '  ,
 		price1: 6500,
-		price: 2900,
+		price: 3300,
 		
 		phone:0554139163,
 	},
