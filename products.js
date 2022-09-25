@@ -9,7 +9,7 @@ const products = [
 		price1: 6500,
 		price: 3300,
 		description: '' ,
-		phone:0554139163,
+		phone:,
 	},
 
 	
